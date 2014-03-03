@@ -1,0 +1,11 @@
+{
+  "name": "zootool-2-pinboard",
+  "version": "0.1.0",
+  "author": "Sheila Ruth <sruth@imaginatorpress.com>",
+  "description": "convert zootool bookmarks to pinboard",
+  "dependencies" : {
+    "JSONStream" :  "~0.8.0",
+    "request" :  "~2.34.0",
+  },
+  "license": "MIT",
+}
